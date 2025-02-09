@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **21000031134cseh@gmail.com**
+- 📫 How to reach me **21000031482cseh@gmail.com**
 
 - ⚡ Fun fact **Coding is Very Interesting🙂**
 
