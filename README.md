@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manikanta Potnuru</h1>
+<h1 align="center">Hi 👋, I'm ASWITH REDDY ATLA</h1>
 <h3 align="center">A passionate full stack developer and a student from India</h3>
 
 - 🔭 I’m currently working on **Generative AI**
